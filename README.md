@@ -1,3 +1,9 @@
+# !!! DO NOT USE !!!
+**This library invokes undefined behavior, and should not be used unless fixed!**
+
+See [issue#8](https://github.com/Leandros/MariaDB-Connector-Cxx/issues/8) for more information.
+
+
 # MariaDB Connector/C++
 
 Connector/C++ is a C++ wrapper for the functionality of the [MariaDB Connector/C library](https://github.com/MariaDB/mariadb-connector-c).
